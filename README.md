@@ -38,7 +38,7 @@ py -3.11 -m pip install -r requirements.txt
 ## Run
 
 ```bash
-py -3.11 Drowsiness & Distraction Detection System.py
+py -3.11 drowsiness-detection.py
 ```
 
 - Keep your eyes open and look at the screen for the first 5 seconds.
